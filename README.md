@@ -1,4 +1,4 @@
-## Olá! 👋
+## Olá! 👋🏼
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
 
 Sou Dinah Dantas, estudante de Ciência de Dados recifense.
@@ -21,6 +21,9 @@ Tenho prática com SQL, Python, CSS, HTML e Java. Aprender novas habilidadess, r
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinah-r-dantas-384a26198/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinah.dantass@gmail.com)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+
+<p style="text-align: center;">⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹</p>
+
 
 <!-- ## Featured Projects 💻
 
