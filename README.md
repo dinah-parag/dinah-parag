@@ -7,6 +7,14 @@ Sou Dinah Dantas, estudante de Ciência de Dados recifense.
 
 Tenho prática com SQL, Python, CSS, HTML e Java. Aprender novas habilidadess, resolução de problemas e organização são um grande motivadores para mim, assim como colaborar com equipes diversas para criar soluções inovadoras.
 
+🔎 Interesses:
+- Análise e Ciência de Dados
+- Automação com Python
+- ETL e Organização de Dados
+- Visualização e Dashboards
+
+🔭 Projetos em desenvolvimento: **Sistema de dados para clínica (DataPulse Lab)**
+
 ### 🧠 Minhas habilidades 
 
 <code><img height="32" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="c"/></code> <code><img height="32" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="c"/></code> <code><img height="32" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="c"/></code>
@@ -40,7 +48,6 @@ Tenho prática com SQL, Python, CSS, HTML e Java. Aprender novas habilidadess, r
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link). -->
 
 <!-- 🌱 Currently learning: **[new technologies or skills you're currently learning]*
-- 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]*** -->
 
 
