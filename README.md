@@ -1,13 +1,12 @@
 ## Olá! 👋🏼
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
 
 Sou Dinah Dantas, estudante de Ciência de Dados recifense.
 
-### 🦄 Sobre mim 
+### Sobre mim 
 
 Tenho prática com SQL, Python, CSS, HTML e Java. Aprender novas habilidadess, resolução de problemas e organização são um grande motivadores para mim, assim como colaborar com equipes diversas para criar soluções inovadoras.
 
-🔎 Interesses:
+ Interesses:
 - Análise e Ciência de Dados
 - Automação com Python
 - ETL e Organização de Dados
@@ -15,7 +14,7 @@ Tenho prática com SQL, Python, CSS, HTML e Java. Aprender novas habilidadess, r
 
 🔭 Projetos em desenvolvimento: **Sistema de dados para clínica (DataPulse Lab)**
 
-### 🧠 Minhas habilidades 
+### Minhas habilidades 
 
 <code><img height="32" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="c"/></code> <code><img height="32" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="c"/></code> <code><img height="32" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="c"/></code>
 
@@ -25,13 +24,12 @@ Tenho prática com SQL, Python, CSS, HTML e Java. Aprender novas habilidadess, r
 
 <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" height="25"/>
 
-## 💌 Se conecte comigo
+## Se conecte comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinah-r-dantas-384a26198/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinah.dantass@gmail.com)
 <!--
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]() -->
 
-<p style="text-align: center;"> ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ </p>
 
 
 <!-- ## Featured Projects 💻
