@@ -4,23 +4,32 @@ Sou Dinah Dantas, estudante de Ciência de Dados recifense.
 
 ### Sobre mim 
 
-Tenho prática com SQL, Python, CSS, HTML e Java. Aprender novas habilidadess, resolução de problemas e organização são um grande motivadores para mim, assim como colaborar com equipes diversas para criar soluções inovadoras.
+Sou uma profissional em formação na área de Dados, com foco em Ciência de Dados, Qualidade de Dados e Análise de Dados.
 
- Interesses:
-- Análise e Ciência de Dados
-- ETL e Organização de Dados
-- Visualização e Dashboards
-- Geoespacialização de dados
+Atualmente atuo com monitoramento, limpeza e validação de bases de dados, diagnóstico de qualidade, modelagem relacional, documentação de dados, processos de ETL, integração de dados e desenvolvimento de indicadores.
 
-<!-- 🔭 Projetos em desenvolvimento: **Sistema de dados para clínica (DataPulse Lab)** -->
+Tenho interesse em desenvolver soluções que tornem o trabalho com dados mais eficiente, confiável e automatizado. Gosto especialmente de projetos envolvendo Python, SQL, APIs, bancos de dados e pipelines de dados.
 
-### Habilidades 
+### Tecnologias
 
-<code><img height="32" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="c"/></code> <code><img height="32" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="c"/></code>
+- Python
+- SQL (MySQL)
+- Pandas
+- FastAPI
+- Streamlit
+- Git e GitHub
+- Power BI
+- Looker Studio
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25"/><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
+### Atualmente estudando
 
-<img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" height="25"/>
+- Engenharia de Dados
+- DataOps
+- Docker
+- CKAN
+- Airflow
+- Computação em Nuvem
+- Boas práticas para pipelines de dados
 
 ## Se conecte comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinah-r-dantas-384a26198/)
